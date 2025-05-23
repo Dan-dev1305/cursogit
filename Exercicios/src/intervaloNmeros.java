@@ -13,7 +13,7 @@ public class intervaloNmeros {
             soma = soma + i;
             //System.out.println(soma);
         }
-        System.out.println(soma);
+        System.out.printf("A soma dos números é igual a %d", soma);
         entrada.close();
     }
     
